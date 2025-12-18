@@ -19,110 +19,79 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I am **Hung-Kai Huang (黃竑愷)**, currently an undergraduate student in the **Undergraduate Program in Intelligent Computing and Big Data** at **Chung Yuan Christian University (CYCU)**, Taiwan.  
-I have maintained a strong academic record with a **GPA of 3.948 / 4.0** and a class ranking of **6.06%**.
+I am **Hung-Kai Huang (黃竑愷)**, currently an undergraduate student in the **Undergraduate Program in Intelligent Computing and Big Data** at **Chung Yuan Christian University (CYCU)**, Taiwan. I have maintained an excellent academic record with a **GPA of 3.948/4.0** and a class ranking of **6.06%**.
 
 My research interests include:
 - **Artificial Intelligence & Computer Vision**
-- **Large Language Models (LLM) & Retrieval-Augmented Generation (RAG)**
+- **Large Language Models (LLM) & RAG**
 - **Data Science**
 
-I am passionate about solving real-world problems through AI, ranging from 3D reconstruction systems to intelligent IoT applications for environmental sustainability.
+I am passionate about building innovative AI solutions, ranging from 3D reconstruction systems to intelligent IoT devices.
 
 # 🔥 News
+- *2025/11*: &nbsp;🎉 Received the **Honorable Mention** in the International ICT Innovative Services Awards 2025.
+- *2025/01*: &nbsp;🚀 Finalist in the **Holtek MCU Innovation Competition** (Ongoing).
+- *2024/09*: &nbsp;📄 Our research paper "Efficient Free-Viewpoint 3D Virtual Try-On" has been submitted to **MDPI Electronics**.
+- *2023-2025*: &nbsp;🎖 Awarded the **Presidential Award** for three semesters.
 
-- *2025/11* — 🎉 **Honorable Mention**, International ICT Innovative Services Awards 2025  
-- *2025/01* — 🚀 **Finalist**, Holtek MCU Innovation Competition (Ongoing)  
-- *2024/09* — 📄 Paper submitted to **MDPI Electronics**: *Efficient Free-Viewpoint 3D Virtual Try-On*  
-- *2023–2025* — 🎖 **Presidential Award**, Chung Yuan Christian University (3 semesters)
+# 📝 Selected Publications 
 
-# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/vton.png' alt="3D VTON" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Submitted</div>
-      <img src='images/vton.png' alt="3D Virtual Try-On" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
-**Efficient Free-Viewpoint 3D Virtual Try-On**  
-**Hung-Kai Huang**
-
-This work proposes a 3D Virtual Try-On (VTON) pipeline that integrates **3D Gaussian Splatting** with **SMPL-X priors** to ensure stable 360-degree multi-view geometry.  
-To address texture blurring and fine-detail degradation, a **view-decomposed LoRA** strategy is introduced for enhanced visual fidelity.
-
-**Keywords**
-- 3D Gaussian Splatting  
-- Virtual Try-On (VTON)  
-- SMPL-X Priors  
-
-<div class="links">
-  <a href="https://www.mdpi.com/2079-9292/14/19/3884"
-     class="btn btn-sm z-depth-0"
-     role="button"
-     rel="external nofollow noopener"
-     target="_blank">
-     Journal Link
-  </a>
-</div>
-
+**Efficient Free-Viewpoint 3D Virtual Try-On** **Hung-Kai Huang** **Keywords**
+- 3D Gaussian Splatting 
+- Virtual Try-On (VTON) 
+- SMPL-X priors 
+  
+  <div class="links">
+      <a href="https://www.mdpi.com/2079-9292/14/19/3884" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Journal Link</a>
   </div>
 </div>
+</div>
+
+# 🎖 Honors and Awards
+
+- *2025.11*: **Honorable Mention**, International ICT Innovative Services Awards 2025.
+- *2024.10*: **1st Place**, Future Problem-Solving Ability Competition: Enhancing Waste Toy Recycling Efficiency using AI.
+- *2024.06*: **Best Solution Award**, Intercollegiate Data Science Course & Industry Collaboration Project: "Dudu Restaurant".
+- *2023-2025*: **Presidential Award** (3 Semesters), Chung Yuan Christian University.
+- *2024.01*: **Finalist (Ongoing)**, Holtek MCU Innovation Competition.
+- *2024.12*: **TOEIC Gold Certificate**, Score: **870/990**.
 
 # 🚀 Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AI & Sensors</div>
-      <img src='images/toy_recycling.png' alt="Waste Toy Recycling" width="100%">
-    </div>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI & Sensors</div><img src='images/toy_recycling.png' alt="Recycling" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  <div class='paper-box-text' markdown="1">
-
-**AI-Driven Waste Toy Recycling System**
-
-Developed an automated plastic material identification system using **near-infrared (NIR) multispectral sensors** and **SVM-based classification** to support circular economy applications.
+**AI-Driven Waste Toy Recycling System** Developed an automated material identification system using near-infrared (NIR) multispectral sensors and SVM modeling to intelligently classify plastic materials.
 
 **Keywords**
-- Multispectral Sensors  
-- Support Vector Machine (SVM)  
-
-  </div>
+- Multispectral Sensors 
+- SVM Modeling 
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">LLM & RAG</div>
-      <img src='images/ai_lover.png' alt="AI Lover Ivy" width="100%">
-    </div>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLM & RAG</div><img src='images/ai_lover.png' alt="AI Lover" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  <div class='paper-box-text' markdown="1">
-
-**Retrieval-Augmented Generation (RAG) for “AI Lover Ivy”**
-
-Implemented a **RAG-based conversational framework** using **Large Language Models (LLMs)** to create an interactive AI application with personalized dialogue capabilities.
+**Retrieval-Augmented Generation (RAG) for "AI Lover Ivy"** Implemented a RAG-based framework using LLMs to create an interactive AI application with context-aware conversational capabilities.
 
 **Keywords**
-- Large Language Models (LLM)  
-- Retrieval-Augmented Generation (RAG)  
-
-  </div>
+- LLM 
+- RAG 
+</div>
 </div>
 
 # 🎓 Education
 
-**Chung Yuan Christian University (CYCU)**, Taoyuan, Taiwan  
-**B.S. in Intelligent Computing and Big Data**  
-*Sep. 2022 – Jun. 2026*
+- **Chung Yuan Christian University (CYCU)**, Taoyuan, Taiwan 
+  - B.S. in Intelligent Computing and Big Data (Sep. 2022 - Jun. 2026) 
+  - GPA: **3.948/4.0** | Ranking: **6.06%** ### Core Coursework 
+| Course | Project | Score |
+| :--- | :--- | :--- |
+| Intro to Natural Science and AI | YOLOv7 detection of "Simpson" characters | 92/100 (2nd of 34) |
+| Machine Learning | Reinforcement Learning in Interactive Games | 95/100 (2nd of 33) |
+| Deep Learning | RAG with LLM for AI Lover Ivy | 96/100 (2nd of 34) |
 
-- GPA: **3.948 / 4.0**  
-- Class Ranking: **6.06%**
-
-
+---
