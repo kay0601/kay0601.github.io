@@ -39,7 +39,9 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/vton.png' alt="3D VTON" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Efficient Free-Viewpoint 3D Virtual Try-On** **Hung-Kai Huang** **Keywords**
+**Efficient Free-Viewpoint 3D Virtual Try-On** 
+<!-- **Hung-Kai Huang**  -->
+**Keywords**
 - 3D Gaussian Splatting 
 - Virtual Try-On (VTON) 
 - SMPL-X priors 
@@ -53,34 +55,36 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
 # 🎖 Honors and Awards
 
 - *2025.11*: **Honorable Mention**, International ICT Innovative Services Awards 2025.
-- *2024.10*: **1st Place**, Future Problem-Solving Ability Competition: Enhancing Waste Toy Recycling Efficiency using AI.
-- *2024.06*: **Best Solution Award**, Intercollegiate Data Science Course & Industry Collaboration Project: "Dudu Restaurant".
+- *2025.09*: **TOEIC Gold Certificate**, Score: **870/990**.
+- *2025.08*: **1st Place**, Future Problem-Solving Ability Competition: Enhancing Waste Toy Recycling Efficiency using AI.
+- *2025.06*: **Best Solution Award**, Intercollegiate Data Science Course & Industry Collaboration Project: "Dudu Restaurant".
+- *2025.01*: **Finalist (Ongoing)**, Holtek MCU Innovation Competition.
 - *2023-2025*: **Presidential Award** (3 Semesters), Chung Yuan Christian University.
-- *2024.01*: **Finalist (Ongoing)**, Holtek MCU Innovation Competition.
-- *2024.12*: **TOEIC Gold Certificate**, Score: **870/990**.
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI & Sensors</div><img src='images/toy_recycling.png' alt="Recycling" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**AI-Driven Waste Toy Recycling System** Developed an automated material identification system using near-infrared (NIR) multispectral sensors and SVM modeling to intelligently classify plastic materials.
-
-**Keywords**
-- Multispectral Sensors 
-- SVM Modeling 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <iframe width="560" height="315" src="https://youtu.be/2FM9Ge66kiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>AI-Driven Waste Toy Recycling System</h2>
+    <p>Developed an automated material identification system using near-infrared (NIR) multispectral sensors and SVM modeling to intelligently classify plastic materials.</p>
+  </div>
 </div>
-</div>
+<p></p>
+<p></p>
+<hr> <!-- 分隔線 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLM & RAG</div><img src='images/ai_lover.png' alt="AI Lover" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Retrieval-Augmented Generation (RAG) for "AI Lover Ivy"** Implemented a RAG-based framework using LLMs to create an interactive AI application with context-aware conversational capabilities.
-
-**Keywords**
-- LLM 
-- RAG 
-</div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <iframe width="560" height="315" src="https://youtu.be/b1pC1_KtW70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>Retrieval-Augmented Generation (RAG) for “AI Lover Ivy”</h2>
+    <p>"Implemented a RAG-based framework using LLMs to create an interactive AI application with context-aware conversational capabilities.</p>
+  </div>
 </div>
 
 # 🎓 Educations
