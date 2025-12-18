@@ -20,20 +20,21 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 I am **Hung-Kai Huang (黃竑愷)**, currently an undergraduate student in the **Undergraduate Program in Intelligent Computing and Big Data** at **Chung Yuan Christian University (CYCU)**, Taiwan.  
-I have maintained a strong academic record with a **GPA of 3.948/4.0** and a class ranking of **6.06%**.
+I have maintained a strong academic record with a **GPA of 3.948 / 4.0** and a class ranking of **6.06%**.
 
 My research interests include:
 - **Artificial Intelligence & Computer Vision**
-- **Large Language Models (LLM) & RAG**
+- **Large Language Models (LLM) & Retrieval-Augmented Generation (RAG)**
 - **Data Science**
 
 I am passionate about solving real-world problems through AI, ranging from 3D reconstruction systems to intelligent IoT applications for environmental sustainability.
 
 # 🔥 News
-- *2025/11*: 🎉 Received the **Honorable Mention** in the International ICT Innovative Services Awards 2025.
-- *2025/01*: 🚀 Finalist in the **Holtek MCU Innovation Competition** (Ongoing).
-- *2024/09*: 📄 Our research paper **"Efficient Free-Viewpoint 3D Virtual Try-On"** has been submitted to **MDPI Electronics**.
-- *2023–2025*: 🎖 Awarded the **Presidential Award** for three semesters.
+
+- *2025/11* — 🎉 **Honorable Mention**, International ICT Innovative Services Awards 2025  
+- *2025/01* — 🚀 **Finalist**, Holtek MCU Innovation Competition (Ongoing)  
+- *2024/09* — 📄 Paper submitted to **MDPI Electronics**: *Efficient Free-Viewpoint 3D Virtual Try-On*  
+- *2023–2025* — 🎖 **Presidential Award**, Chung Yuan Christian University (3 semesters)
 
 # 📝 Publications 
 
@@ -41,23 +42,22 @@ I am passionate about solving real-world problems through AI, ranging from 3D re
   <div class='paper-box-image'>
     <div>
       <div class="badge">Submitted</div>
-      <img src='images/vton.png' alt="3D VTON" width="100%">
+      <img src='images/vton.png' alt="3D Virtual Try-On" width="100%">
     </div>
   </div>
 
   <div class='paper-box-text' markdown="1">
 
-**Efficient Free-Viewpoint 3D Virtual Try-On**
-
+**Efficient Free-Viewpoint 3D Virtual Try-On**  
 **Hung-Kai Huang**
 
-This work develops a 3D Virtual Try-On (VTON) pipeline integrating **3D Gaussian Splatting** with **SMPL-X priors** to ensure stable 360-degree multi-view geometry.  
-It further addresses texture blurring and detail loss using a **view-decomposed LoRA** approach.
+This work proposes a 3D Virtual Try-On (VTON) pipeline that integrates **3D Gaussian Splatting** with **SMPL-X priors** to ensure stable 360-degree multi-view geometry.  
+To address texture blurring and fine-detail degradation, a **view-decomposed LoRA** strategy is introduced for enhanced visual fidelity.
 
 **Keywords**
 - 3D Gaussian Splatting  
 - Virtual Try-On (VTON)  
-- SMPL-X priors  
+- SMPL-X Priors  
 
 <div class="links">
   <a href="https://www.mdpi.com/2079-9292/14/19/3884"
@@ -72,23 +72,13 @@ It further addresses texture blurring and detail loss using a **view-decomposed 
   </div>
 </div>
 
-# 🎖 Honors and Awards
-
-- *2025.11*: **Honorable Mention**, International ICT Innovative Services Awards 2025.
-- *2024.10*: **1st Place**, Future Problem-Solving Ability Competition:  
-  *Enhancing Waste Toy Recycling Efficiency using AI*.
-- *2024.06*: **Best Solution Award**, Intercollegiate Data Science Course & Industry Collaboration Project.
-- *2023–2025*: **Presidential Award** (3 Semesters), Chung Yuan Christian University.
-- *2024.01*: **Finalist (Ongoing)**, Holtek MCU Innovation Competition.
-- *2024.12*: **TOEIC Gold Certificate**, Score: **870/990**.
-
 # 🚀 Projects
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">AI & Sensors</div>
-      <img src='images/toy_recycling.png' alt="Recycling" width="100%">
+      <img src='images/toy_recycling.png' alt="Waste Toy Recycling" width="100%">
     </div>
   </div>
 
@@ -96,11 +86,11 @@ It further addresses texture blurring and detail loss using a **view-decomposed 
 
 **AI-Driven Waste Toy Recycling System**
 
-Developed an automated material identification system using **near-infrared (NIR) multispectral sensors** and **SVM modeling** to intelligently classify plastic materials for a circular economy.
+Developed an automated plastic material identification system using **near-infrared (NIR) multispectral sensors** and **SVM-based classification** to support circular economy applications.
 
 **Keywords**
 - Multispectral Sensors  
-- SVM Modeling  
+- Support Vector Machine (SVM)  
 
   </div>
 </div>
@@ -109,15 +99,15 @@ Developed an automated material identification system using **near-infrared (NIR
   <div class='paper-box-image'>
     <div>
       <div class="badge">LLM & RAG</div>
-      <img src='images/ai_lover.png' alt="AI Lover" width="100%">
+      <img src='images/ai_lover.png' alt="AI Lover Ivy" width="100%">
     </div>
   </div>
 
   <div class='paper-box-text' markdown="1">
 
-**Retrieval-Augmented Generation (RAG) for "AI Lover Ivy"**
+**Retrieval-Augmented Generation (RAG) for “AI Lover Ivy”**
 
-Implemented a **RAG-based framework** using **Large Language Models (LLMs)** to create an interactive AI application with personalized conversational capabilities.
+Implemented a **RAG-based conversational framework** using **Large Language Models (LLMs)** to create an interactive AI application with personalized dialogue capabilities.
 
 **Keywords**
 - Large Language Models (LLM)  
@@ -126,10 +116,13 @@ Implemented a **RAG-based framework** using **Large Language Models (LLMs)** to 
   </div>
 </div>
 
-# 🎓 Educations
+# 🎓 Education
 
-- **Chung Yuan Christian University (CYCU)**, Taoyuan, Taiwan  
-  - **B.S. in Intelligent Computing and Big Data** (Sep. 2022 – Jun. 2026)  
-  - GPA: **3.948/4.0** | Ranking: **6.06%**
+**Chung Yuan Christian University (CYCU)**, Taoyuan, Taiwan  
+**B.S. in Intelligent Computing and Big Data**  
+*Sep. 2022 – Jun. 2026*
+
+- GPA: **3.948 / 4.0**  
+- Class Ranking: **6.06%**
 
 
