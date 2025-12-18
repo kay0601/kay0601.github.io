@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I am **Hung-Kai Huang (黃竑愷)**, currently an undergraduate student in the **Undergraduate Program in Intelligent Computing and Big Data** at **Chung Yuan Christian University (CYCU)**, Taiwan. I have maintained an excellent academic record with a **GPA of 3.948/4.0** and a class ranking of **6.06%**.
+I am **Hung-Kai Huang (黃竑愷)**, currently an undergraduate student in the **Undergraduate Program in Intelligent Computing and Big Data** at **Chung Yuan Christian University (CYCU)**, Taiwan.
 
 My research interests include:
 - **Artificial Intelligence & Computer Vision**
@@ -34,7 +34,7 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
 - *2024/09*: &nbsp;📄 Our research paper "Efficient Free-Viewpoint 3D Virtual Try-On" has been submitted to **MDPI Electronics**.
 - *2023-2025*: &nbsp;🎖 Awarded the **Presidential Award** for three semesters.
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/vton.png' alt="3D VTON" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,15 +83,9 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
 </div>
 </div>
 
-# 🎓 Education
+# 🎓 Educations
 
 - **Chung Yuan Christian University (CYCU)**, Taoyuan, Taiwan 
-  - B.S. in Intelligent Computing and Big Data (Sep. 2022 - Jun. 2026) 
-  - GPA: **3.948/4.0** | Ranking: **6.06%** ### Core Coursework 
-| Course | Project | Score |
-| :--- | :--- | :--- |
-| Intro to Natural Science and AI | YOLOv7 detection of "Simpson" characters | 92/100 (2nd of 34) |
-| Machine Learning | Reinforcement Learning in Interactive Games | 95/100 (2nd of 33) |
-| Deep Learning | RAG with LLM for AI Lover Ivy | 96/100 (2nd of 34) |
+  
 
 ---
