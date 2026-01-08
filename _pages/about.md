@@ -29,7 +29,7 @@ My research interests include:
 I am passionate about building innovative AI solutions, ranging from 3D reconstruction systems to intelligent IoT devices.
 
 # 🔥 News
-- *2025/11*: &nbsp;🎉 Won the Winner Award (Innovative Product Design), Austin International Special Award, and Signal Electronics Special Award in the 20th Holtek Cup MCU Innovation Competition.
+- *2025/12*: &nbsp;🎉 Won the Winner Award (Innovative Product Design), Austin International Special Award, and Signal Electronics Special Award in the 20th Holtek Cup MCU Innovation Competition.
 - *2025/11*: &nbsp;🎉 Received the **Honorable Mention** in the International ICT Innovative Services Awards 2025.
 - *2025/01*: &nbsp;🚀 Finalist in the **Holtek MCU Innovation Competition** (Ongoing).
 - *2024/09*: &nbsp;📄 Our research paper "Efficient Free-Viewpoint 3D Virtual Try-On" has been submitted to **MDPI Electronics**.
@@ -54,7 +54,7 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
 </div>
 
 # 🎖 Honors and Awards
-
+- *2025.12*: **Winner (Innovative Product Design), Austin International Special Award & Signal Electronics Special Award**, 20th Holtek Cup MCU Innovation Competition.
 - *2025.11*: **Honorable Mention**, International ICT Innovative Services Awards 2025.
 - *2025.09*: **TOEIC Gold Certificate**, Score: **870/990**.
 - *2025.08*: **1st Place**, Future Problem-Solving Ability Competition: Enhancing Waste Toy Recycling Efficiency using AI.
@@ -85,6 +85,19 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
   <div style="flex: 1; padding-left: 20px;">
     <h2>Retrieval-Augmented Generation (RAG) for “AI Lover Ivy”</h2>
     <p>"Implemented a RAG-based framework using LLMs to create an interactive AI application with context-aware conversational capabilities.</p>
+  </div>
+</div>
+
+<hr> <!-- 分隔線 -->
+
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <iframe width="560" height="315" src="https://youtu.be/wmYYlQ4TdEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>Infinite Context-Aware Interactive Story Machine</h2>
+    <p>"Integrates narrative progression with sensor technology, driving the plot through user interactions such as voice feedback, motion detection, and button inputs, allowing users to actively shape the development of the story.</p>
   </div>
 </div>
 
