@@ -93,7 +93,7 @@ I am passionate about building innovative AI solutions, ranging from 3D reconstr
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
-    <iframe width="560" height="315" src="https://youtu.be/embed/wmYYlQ4TdEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wmYYlQ4TdEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>Infinite Context-Aware Interactive Story Machine</h2>
