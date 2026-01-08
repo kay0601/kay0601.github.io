@@ -29,6 +29,7 @@ My research interests include:
 I am passionate about building innovative AI solutions, ranging from 3D reconstruction systems to intelligent IoT devices.
 
 # 🔥 News
+- *2025/11*: &nbsp;🎉 Won the Winner Award (Innovative Product Design), Austin International Special Award, and Signal Electronics Special Award in the 20th Holtek Cup MCU Innovation Competition.
 - *2025/11*: &nbsp;🎉 Received the **Honorable Mention** in the International ICT Innovative Services Awards 2025.
 - *2025/01*: &nbsp;🚀 Finalist in the **Holtek MCU Innovation Competition** (Ongoing).
 - *2024/09*: &nbsp;📄 Our research paper "Efficient Free-Viewpoint 3D Virtual Try-On" has been submitted to **MDPI Electronics**.
